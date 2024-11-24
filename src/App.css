@@ -36,3 +36,9 @@
     transform: rotate(360deg);
   }
 }
+.bg-custom {
+  background-image: url('https://clipart-library.com/images/riLo6jL8T.jpg');
+  background-repeat: no-repeat; /* Resmin tekrarlanmasını önler */
+  background-size: cover; /* Resmi alanın tamamını kaplayacak şekilde ölçekler */
+  background-position: center; /* Resmi ortalar */
+}
