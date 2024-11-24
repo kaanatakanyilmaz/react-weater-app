@@ -5,7 +5,7 @@ Bu proje, React kullanarak geliştirilen basit bir hava durumu uygulamasıdır. 
 ## Özellikler
 
 - Kullanıcı, şehir ismi girerek hava durumu bilgilerini görüntüleyebilir.
-- Hava durumu, sıcaklık, nem oranı ve rüzgar hızı gibi verilerle birlikte sunulur.
+- Hava durumu, sıcaklık ve şehir adı gibi verilerle birlikte sunulur.
 - API kullanarak gerçek zamanlı hava durumu verilerini çekme.
 
 ## Kullanılan Teknolojiler
