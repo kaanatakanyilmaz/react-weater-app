@@ -6,9 +6,10 @@ Bu proje, React kullanarak geliştirilen basit bir hava durumu uygulamasıdır. 
 
 - Kullanıcı, şehir ismi girerek hava durumu bilgilerini görüntüleyebilir.
 - Hava durumu, sıcaklık ve şehir adı gibi verilerle birlikte sunulur.
-- API kullanarak gerçek zamanlı hava durumu verilerini çekme.
+- Axios ile API kullanarak gerçek zamanlı hava durumu verilerini çekme.
 
 ## Kullanılan Teknolojiler
 
 - React
 - Tailwind
+- Axios
