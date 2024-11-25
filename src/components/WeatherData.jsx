@@ -42,8 +42,8 @@ function WeaterData() {
             placeholder="Location Search"
             onChange={(e) => setSearch(e.target.value)} >
             </input>
-            <div>
-                {city && <Weather city={city} />}
+            <div className="mt-3">
+                {city ? <Weather city={city} />: " Plase enter the location "}
             </div>
         </div>
     )
